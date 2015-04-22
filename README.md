@@ -11,8 +11,11 @@ connection in your device while running app else you will get "Network not avail
 
 ### Library/Dependencies Used
 1. Retrofit
+
 2. Android AppCompat
+
 3.Google Play Services
+
 4. Android Map Utils
 
 Minimum SDK version : 15
